@@ -38,3 +38,5 @@ Versão 1.0
 ## ✒️ Autores 
 
 Luiz Eduardo
+
+![Classe UML](https://github.com/user-attachments/assets/f54b958e-7af8-4c2b-bed4-75542cf581b6)
